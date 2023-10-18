@@ -1,0 +1,23 @@
+{
+    "name": "repeating-js",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kfedus6/REPEATING_JS.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/kfedus6/REPEATING_JS/issues"
+    },
+    "homepage": "https://github.com/kfedus6/REPEATING_JS#readme",
+    "dependencies": {
+        "nodemon": "^3.0.1"
+    }
+}
